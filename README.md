@@ -1,7 +1,7 @@
 # AnyJump
 a Activity jump demo
 # Useage
-1. 在工程的 Application 类中初始化
+1. 在工程的 Application 类初始化
 ```
 JActivityManager.getInstance().init(this);
 ```
