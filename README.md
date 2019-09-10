@@ -17,3 +17,6 @@ a Activity jump demo
         JActivityManager.getInstance().popToActivityAtIndex(0);
     }
 ```
+
+3. 待上传
+
